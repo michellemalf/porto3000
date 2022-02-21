@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b442205.chunk.css",
+    "main.js": "/static/js/main.1de252a9.chunk.js",
+    "main.js.map": "/static/js/main.1de252a9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c1ec362b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c1ec362b.js.map",
+    "static/js/2.f30e5af6.chunk.js": "/static/js/2.f30e5af6.chunk.js",
+    "static/js/2.f30e5af6.chunk.js.map": "/static/js/2.f30e5af6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3a2c01a7f6939ae1f44c5dc9de9c9b78.js": "/precache-manifest.3a2c01a7f6939ae1f44c5dc9de9c9b78.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9b442205.chunk.css.map": "/static/css/main.9b442205.chunk.css.map",
+    "static/js/2.f30e5af6.chunk.js.LICENSE.txt": "/static/js/2.f30e5af6.chunk.js.LICENSE.txt",
+    "static/media/Felix.png": "/static/media/Felix.fdf4908d.png",
+    "static/media/FoundersHeader.png": "/static/media/FoundersHeader.e8ee6a57.png",
+    "static/media/Kriselda.png": "/static/media/Kriselda.891bd3e4.png",
+    "static/media/Michelle.jpg": "/static/media/Michelle.84f28cd3.jpg",
+    "static/media/Oscypki.jpg": "/static/media/Oscypki.40aed4f9.jpg",
+    "static/media/Ricky.png": "/static/media/Ricky.19cbc08f.png",
+    "static/media/About.css": "/static/media/Sunrise.eee03ab3.png",
+    "static/media/WelcomeHeader.png": "/static/media/WelcomeHeader.34c290a5.png",
+    "static/media/Cart.css": "/static/media/barrelStack.93a7e5d2.jpg",
+    "static/media/goatCheese.jpg": "/static/media/goatCheese.fd844149.jpg",
+    "static/media/SingleProduct.css": "/static/media/grapes.d665321d.jpg",
+    "static/media/handHeldGrapes.png": "/static/media/handHeldGrapes.a2fe9144.png",
+    "static/media/mainLogo.png": "/static/media/mainLogo.9e56f743.png",
+    "static/media/navName.png": "/static/media/navName.28c7a2b5.png",
+    "static/media/Products.css": "/static/media/vineyard.f912a0bb.jpg",
+    "static/media/vineyardOverview.png": "/static/media/vineyardOverview.9752c557.png",
+    "static/media/wineBottle.jpg": "/static/media/wineBottle.c1bcc68c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1ec362b.js",
+    "static/js/2.f30e5af6.chunk.js",
+    "static/css/main.9b442205.chunk.css",
+    "static/js/main.1de252a9.chunk.js"
+  ]
+}
